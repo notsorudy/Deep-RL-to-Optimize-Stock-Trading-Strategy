@@ -20,7 +20,7 @@ source .venv/bin/activate        # Linux/Mac
 ### 3. Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r required.txt
 ```
 
 ### Run the Code
