@@ -9,7 +9,8 @@ This project implements a Deep Q-Network (DQN) to solve the CartPole-v1 environm
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/yourusername/cartpole-dqn.git
-cd cartpole-dqn```
+cd cartpole-dqn\
+```
 
 ### 2. Create and Activate Virtual Environment
 ```bash
@@ -23,7 +24,7 @@ source .venv/bin/activate        # Linux/Mac
 pip install -r required.txt
 ```
 
-### Run the Code
+### 4. Run the Code
 
 ```bash
 python dqn_cartpole.py
